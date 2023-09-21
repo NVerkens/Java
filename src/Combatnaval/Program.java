@@ -15,7 +15,7 @@ public class Program {
 
         // Déclaration de constante
 
-        final var MAX=POINTS = 5 + 4 + 3 + 2 + 2 + 1;
+        final var MAX_POINTS = 5 + 4 + 3 + 2 + 2 + 1;
 
         // Création d'un tableau pour la grille d'attaque
         var GrilleAttaque = new char[100];
